@@ -1,6 +1,6 @@
 # Capstone C++ Club & Event Manager
 
-**A lightweight, terminal-based C++ application to manage student clubs, members, and events.**
+**A lightweight, terminal-based C++ application to manage student clubs, members, and events with attractive Output on console.**
 
 ---
 
